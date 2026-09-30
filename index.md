@@ -1,4 +1,4 @@
-# Meu projeto incrível 🚀 
+# Meu projeto inicial 🚀 
 
 Este projeto foi criado para mostrar como o GitHub Pages pode hospedar sites incríveis
 
